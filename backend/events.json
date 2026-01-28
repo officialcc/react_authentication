@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/M%C3%BCnchen_Panorama.JPG/1024px-M%C3%BCnchen_Panorama.JPG",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"A new event!!!","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","date":"2026-01-01","description":"An awesome event!","id":"26f22342-834b-4861-a945-fe2d6c272529"}],"users":[{"email":"test@email.com","password":"$2a$12$E636YFij8iN0Y0lM9WB3fuqZTwZGbC0tN5ZUHqWWsOQ5V6MfUuucO","id":"6200bf25-ad9c-4654-b463-299ea48d5ab7"},{"email":"email@address.com","password":"$2a$12$/B5HR9ec0qw5ShujQY/L4O6IoM7gL8NhkITx.PRMpqNyT/Yprs5e2","id":"023e1f60-6878-4336-b256-e79ccd43f912"}]}
